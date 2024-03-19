@@ -1,4 +1,4 @@
-##### Prueba resuelta
+## Prueba resuelta
 Las soluciones se muestran en la consola o la terminal. Los ejercicios que solucione son:
 
 - SumaSerie (1 ejercicio)
